@@ -23,3 +23,15 @@ C:\Users\micha\Documents\Work\Gaming-Computer-Tools\Src\PerfWatch\Src\PerfWatch\
 C:\Users\micha\Documents\Work\Gaming-Computer-Tools\Src\PerfWatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.CopyComplete
 C:\Users\micha\Documents\Work\Gaming-Computer-Tools\Src\PerfWatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.exe
 C:\Users\micha\Documents\Work\Gaming-Computer-Tools\Src\PerfWatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.pdb
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\bin\Release\PerfWatch.exe.config
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\bin\Release\PerfWatch.exe
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\bin\Release\PerfWatch.pdb
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.Form1.resources
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.Form2.resources
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.Properties.Resources.resources
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.CopyComplete
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.exe
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.pdb
