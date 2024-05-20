@@ -32,6 +32,6 @@ C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\Pe
 C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.Properties.Resources.resources
 C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.CopyComplete
 C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.exe
 C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.pdb
+C:\Users\micha\Documents\github\perfwatch\Src\PerfWatch\PerfWatch\obj\Release\PerfWatch.csproj.Up2Date
